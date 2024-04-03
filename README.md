@@ -6,11 +6,16 @@
 
 ## Sobre mí
 
-- 🔭 Actualmente estoy trabajando en formarme como programador móvil.
-- 🌱 Estoy aprendiendo a desarrollar aplicaciones móviles.
-- 👯 Estoy buscando colaborar en proyectos móviles.
-- 💬 Puedes preguntarme sobre desarrollo móvil, Android, iOS, Android Studio, Xcode, Swift, Kotlin, SwiftUI y Compose.
-- 📫 Cómo contactarme: [LinkedIn](https://www.linkedin.com/in/aitoriglesiaspubill/)
+## Sobre mí
+
+¡Hola! Soy Aitor, un apasionado programador móvil con experiencia en desarrollo tanto en iOS como en Android. 
+Me formé como programador móvil en Keepcoding, donde actualmente soy profesor, compartiendo mi conocimiento y experiencia con futuros desarrolladores.
+
+Además, actualmente trabajo en una empresa como desarrollador fullstack mobile, participando en proyectos que abarcan tanto el desarrollo para iOS como para Android. 
+Estoy comprometido con el aprendizaje continuo y siempre estoy buscando nuevos desafíos para mejorar mis habilidades y contribuir al éxito de los proyectos en los que participo.
+
+💬 Puedes preguntarme sobre desarrollo móvil, Android, iOS, Android Studio, Xcode, Swift, Kotlin, SwiftUI y Compose.
+📫 Cómo contactarme: [LinkedIn](https://www.linkedin.com/in/aitoriglesiaspubill/)
 
 ## Skills
 
