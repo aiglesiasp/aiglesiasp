@@ -16,8 +16,7 @@
 
 ## Skills
 
-- Android ![image](https://github.com/aiglesiasp/aiglesiasp/assets/107586474/144dea5c-1008-491c-9e29-3b374e4fea21, width="100") 
-
+- Android 💚
 - iOS 
 - Android Studio 🛠️
 - Xcode 🛠️
