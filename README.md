@@ -1,14 +1,25 @@
-### Hi there 👋
+# ¡Hola, soy Aitor! 👋
 
+¡Bienvenido a mi perfil de GitHub!
 
-**aiglesiasp/aiglesiasp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**aiglesiasp/aiglesiasp** es un ✨ _repositorio especial_ ✨ porque su `README.md` (este archivo) aparece en tu perfil de GitHub.
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on training as a mobile programmer
-- 🌱 I'm currently learning to develop mobile applications
-- 👯 I’m looking to collaborate on mobile projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aitoriglesiaspubill/)
+- 🔭 Actualmente estoy trabajando en formarme como programador móvil.
+- 🌱 Estoy aprendiendo a desarrollar aplicaciones móviles.
+- 👯 Estoy buscando colaborar en proyectos móviles.
+- 💬 Puedes preguntarme sobre desarrollo móvil, Android, iOS, Android Studio, Xcode, Swift, Kotlin, SwiftUI y Compose.
+- 📫 Cómo contactarme: [LinkedIn](https://www.linkedin.com/in/aitoriglesiaspubill/)
+
+## Skills
+
+- Android 📱
+- iOS 🍎
+- Android Studio 🛠️
+- Xcode 🛠️
+- Swift 🚀
+- Kotlin 🔥
+- SwiftUI 🎨
+- Compose 🖌️
 
