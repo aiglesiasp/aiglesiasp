@@ -21,10 +21,11 @@
 
 
 ## Skills
-
-- Android
 <img src="https://thumbs.dreamstime.com/b/logotipo-de-android-en-un-icono-gris-del-c%C3%ADrculo-nube-disponible-ai-ilustrador-formato-vector-146803252.jpg" alt="bootstrap" width="40" height="40"/>
+<img src="https://static.vecteezy.com/system/resources/previews/021/514/939/non_2x/ios-icon-logo-software-apple-symbol-with-name-design-mobile-illustration-free-vector.jpg" alt="bootstrap" width="40" height="40"/>
+
 - iOS 
+  
 - Android Studio 🛠️
 - Xcode 🛠️
 - Swift 🚀
