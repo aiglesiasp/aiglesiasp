@@ -23,7 +23,7 @@
 ## Skills
 
 - Android
-<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYSLATugDkuKyOcGkn6gQxl5a1jfZ7usbEA8sokAp96Q&s)" alt="bootstrap" width="40" height="40"/>
+<img src="https://thumbs.dreamstime.com/b/logotipo-de-android-en-un-icono-gris-del-c%C3%ADrculo-nube-disponible-ai-ilustrador-formato-vector-146803252.jpg" alt="bootstrap" width="40" height="40"/>
 - iOS 
 - Android Studio 🛠️
 - Xcode 🛠️
