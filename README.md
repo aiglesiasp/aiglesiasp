@@ -2,7 +2,6 @@
 
 ¡Bienvenido a mi perfil de GitHub!
 
-**aiglesiasp/aiglesiasp** es un ✨ _repositorio especial_ ✨ porque su `README.md` (este archivo) aparece en tu perfil de GitHub.
 
 ## Sobre mí
 
