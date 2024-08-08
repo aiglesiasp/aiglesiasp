@@ -28,5 +28,5 @@ My goal is to continue growing in the software development field, adding value t
 
 ## Find me at:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Antonio_Leiva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/aitoriglesiaspubill)
-[![Instagram](https://img.shields.io/badge/Instagram-@devexperto-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/aitor.iglesias.pubill)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aitor_Iglesias-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/aitoriglesiaspubill)
+[![Instagram](https://img.shields.io/badge/Instagram-@aitor.iglesias.pubill-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/aitor.iglesias.pubill)
