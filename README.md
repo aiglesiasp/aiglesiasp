@@ -18,10 +18,10 @@ My goal is to continue growing in the software development field, adding value t
 ![Compose](https://img.shields.io/badge/Compose-3DDC84?style=for-the-badge&logo=compose&logoColor=white&labelColor=101010)</br>
 
 ## iOS Skills:
-![iOS](https://img.shields.io/badge/iOS-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
-![Swift](https://img.shields.io/badge/Swift-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)</br>
-![Xcode](https://img.shields.io/badge/Xcode-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)</br>
-![SwiftUI](https://img.shields.io/badge/SwiftUI-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)</br>
+![iOS](https://img.shields.io/badge/iOS-3DDC84?style=for-the-badge&logo=ios&logoColor=white&labelColor=101010)</br>
+![Swift](https://img.shields.io/badge/Swift-0095D5?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)</br>
+![Xcode](https://img.shields.io/badge/Xcode-3DDC84?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)</br>
+![SwiftUI](https://img.shields.io/badge/SwiftUI-3DDC84?style=for-the-badge&logo=swiftui&logoColor=white&labelColor=101010)</br>
 
 ## Find me at:
 
