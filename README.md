@@ -12,10 +12,10 @@ At the same time, I have dedicated time to programming, teaching myself and comp
 My goal is to continue growing in the software development field, adding value through the combination of my expertise in telecommunications, programming, and team management.
 
 ## Android Skills:
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)</br>
+![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)</br>
 ![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)</br>
-![Compose](https://img.shields.io/badge/Compose-3DDC84?style=for-the-badge&logo=compose&logoColor=white&labelColor=101010)</br>
+![Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=compose&logoColor=white&labelColor=101010)</br>
 
 ## iOS Skills:
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white&labelColor=101010)</br>
