@@ -1,13 +1,3 @@
-
-## Skills
-<img src="https://thumbs.dreamstime.com/b/logotipo-de-android-en-un-icono-gris-del-c%C3%ADrculo-nube-disponible-ai-ilustrador-formato-vector-146803252.jpg" alt="bootstrap" width="40" height="40"/>          <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/kotlin_icon_130893.png" alt="bootstrap" width="40" height="40"/>          <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC97Z8BResg5dlPqczsRCFhP6zewWX0X0e7fVPG-G7PuUZwwZVsi9OPoqJYkgqT2h0FI95SsmWzVEgpt8b8HAqFiIxZ98TFtY4lE0b8UrtVJ2HrJebRwl6C9DslsQDl9KnBIrdHS6LtkY/s1600/jetpack+compose+icon_RGB.png" alt="bootstrap" width="40" height="40"/>
-
-<img src="https://www.e-sort.net/wp-content/uploads/2012/03/logo-apple.jpg" alt="bootstrap" width="40" height="40"/>          <img src="https://seeklogo.com/images/S/swift-logo-E9182990F5-seeklogo.com.png" alt="bootstrap" width="40" height="40"/> 
-         <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="bootstrap" width="40" height="40"/>
-
-
-
-
 # 👋 Hi there, my name is Aitor Iglesias
 ### I'm a full-stack iOS & Android engineer
 
@@ -21,12 +11,19 @@ At the same time, I have dedicated time to programming, teaching myself and comp
 
 My goal is to continue growing in the software development field, adding value through the combination of my expertise in telecommunications, programming, and team management.
 
-## Skills:
+## Android Skills:
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)</br>
 ![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)</br>
+![Compose](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)</br>
+
+## iOS Skills:
+![iOS](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
+![Swift](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)</br>
+![Xcode](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)</br>
+![SwiftUI](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)</br>
 
 ## Find me at:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aitor_Iglesias-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/aitoriglesiaspubill)
-[![Instagram](https://img.shields.io/badge/Instagram-@aitor.iglesias.pubill-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/aitor.iglesias.pubill)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aitor_Iglesias-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/aitoriglesiaspubill)</br>
+[![Instagram](https://img.shields.io/badge/Instagram-@aitor.iglesias.pubill-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/aitor.iglesias.pubill)</br>
