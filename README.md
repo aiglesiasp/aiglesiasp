@@ -1,7 +1,7 @@
 # 👋 Hi there, my name is Aitor Iglesias
 ### I'm a full-stack iOS & Android engineer
 
-![https://github.com/antoniolg](https://yt3.ggpht.com/V94-R66lnyAKjlb4LGhoxF1_XuNTeA6Y5r2WYrb3x6EYbqIw1Yh_uxUddgQACOmBJYPMFJ-FMXA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+![FondoGithub](https://github.com/aiglesiasp/aiglesiasp/blob/main/Fondo%20Github.jpeg)
 
 I am a Telecommunications Engineer with a passion for technology and sports.
 
