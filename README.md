@@ -5,11 +5,13 @@
 
 I am a Telecommunications Engineer with a passion for technology and sports.
 
-My professional career has developed in the telecommunications field, where I have accumulated extensive experience as a Network Technician and had the opportunity to lead teams as a Systems and Networks Coordinator. For over 20 years, I have combined this career with my other great passion: basketball. I have been a coach, player, and referee, as well as a coordinator of teams and clubs, which has allowed me to develop leadership and group management skills.
+For over 20 years, my career has been developed in the telecommunications field, where I have accumulated extensive experience and had the opportunity to lead teams as a Systems and Networks Coordinator. Simultaneously, I have combined this career with my other great passion: basketball. I have been a coach, player, referee, and coordinator of teams and clubs, which has allowed me to develop leadership and group management skills.
 
-At the same time, I have dedicated time to programming, teaching myself and completing courses on renowned platforms like KeepCoding and ArchitectCoders, with the goal of becoming a FullStack Developer specializing in iOS and Android. This combination of technical skills and leadership experience enables me to approach software development projects from a comprehensive perspective, applying both technological knowledge and the ability to coordinate teams and resources effectively.
+After completing my Telecommunications Engineering degree, I completed two intensive bootcamps: the first at KeepCoding, where I spent 10 months training in iOS and Android application development using the latest technologies. This bootcamp enabled me to find my first job in the sector as a FullStack Developer specializing in iOS and Android. Later, I completed a second bootcamp at Architect Coders, where I delved into advanced Android development for 3 months.
 
-My goal is to continue growing in the software development field, adding value through the combination of my expertise in telecommunications, programming, and team management.
+With several years of experience in this new field, I have also had the opportunity to share my knowledge as an iOS instructor at KeepCoding. This combination of academic training, professional experience, and teaching allows me to approach software projects from a comprehensive perspective, applying both my technical knowledge and my leadership and team coordination skills.
+
+My goal is to continue growing in software development, adding value through my experience in telecommunications, programming, and team management.
 
 ## Skills:
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)
