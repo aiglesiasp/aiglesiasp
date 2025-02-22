@@ -5,8 +5,9 @@
 
 I am a Telecommunications Engineer with a passion for technology and sports.
 
-For over 15 years, my career has been developed in the telecommunications field, where I have accumulated extensive experience and had the opportunity to lead teams as a Systems and Networks Coordinator. 
-Simultaneously, I have combined this career with my other great passion: basketball. I have been a coach, player, referee, and coordinator of teams and clubs, which has allowed me to develop leadership and group management skills.
+With 15+ years in telecommunications, I’ve gained extensive experience and led teams as a Systems and Networks Coordinator. 
+
+Alongside my career, my passion for basketball has led me to be a coach, player, referee, and team coordinator, strengthening my leadership and management skills.
 
 Looking to shift into software development, I completed a Higher Degree in Multiplatform Application Development and two intensive bootcamps:
 
